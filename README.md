@@ -2,9 +2,7 @@
 这个脚手架项目专门为webpack+react开发单页应用定制，使用 TypeScript ，并采用less和postcss处理css。
 
 (目前尚在开发中，请谨慎使用)
-
-### IE8 支持
-开发过程中，禁止使用 es6 module 写法  
+ 
 
 ### 开始
 
